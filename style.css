@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url(./imagens/arte-abstrata-colorida-4k-papel-de-parede-2560x2048_33.jpg);
+    background: url(imagens/arte-abstrata-colorida-4k-papel-de-parede-2560x2048_33.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
@@ -47,12 +47,12 @@ input{
 }
 
 input.email{
-    background-image: url(./imagens/icone-usuario.png) ;
+    background-image: url(imagens/icone-usuario.png) ;
 
 }
 
 input.senha{
-    background-image: url(./imagens/icone-cadeado.png);
+    background-image: url(imagens/icone-cadeado.png);
 }
 
 input.submit{
